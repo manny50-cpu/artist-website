@@ -1,0 +1,11 @@
+table, th, td{
+    border: 1px solid black 
+}
+body{
+    background-image: url("https://cdn.pixabay.com/photo/2022/10/04/14/50/computer-7498415_1280.jpg"); /* The image used */
+   
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+  }
+  
